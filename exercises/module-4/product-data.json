@@ -1,0 +1,74 @@
+[
+    {
+        "active": true,
+        "catalogExternalReferenceCode": "AFTER_SALES_CATALOG",
+        "description": {
+            "en_US": "<p>A 30-minute one-on-one virtual consultation with a style expert to find the perfect frame.</p>"
+        },
+        "externalReferenceCode": "STYLE_CONSULT",
+        "name": {
+            "en_US": "Virtual Eyewear Style Consultation"
+        },
+        "productType": "virtual"
+    },
+    {
+        "active": true,
+        "catalogExternalReferenceCode": "AFTER_SALES_CATALOG",
+        "description": {
+            "en_US": "<p>A subscription service for regular delivery of professional lens cleaning supplies.</p>"
+        },
+        "externalReferenceCode": "CLEANING_SUBSCRIPTION",
+        "name": {
+            "en_US": "Lens Care Subscription"
+        },
+        "productType": "virtual"
+    },
+    {
+        "active": true,
+        "catalogExternalReferenceCode": "AFTER_SALES_CATALOG",
+        "description": {
+            "en_US": "<p>A personalized eyewear fitting and maintenance service performed at one of our partnered locations.</p>"
+        },
+        "externalReferenceCode": "MAINTENANCE_SERVICE",
+        "name": {
+            "en_US": "In-Store Frame Maintenance"
+        },
+        "productType": "virtual"
+    },
+    {
+        "active": true,
+        "catalogExternalReferenceCode": "AFTER_SALES_CATALOG",
+        "description": {
+            "en_US": "<p>A virtual service for customers to try on glasses using augmented reality and receive feedback.</p>"
+        },
+        "externalReferenceCode": "AR_TRYON_ASSIST",
+        "name": {
+            "en_US": "Augmented Reality Try-On Assistant"
+        },
+        "productType": "virtual"
+    },
+    {
+        "active": true,
+        "catalogExternalReferenceCode": "AFTER_SALES_CATALOG",
+        "description": {
+            "en_US": "<p>A digital service to get a new pair of lenses with a custom blue light filter applied.</p>"
+        },
+        "externalReferenceCode": "BLUELIGHT_FILTER",
+        "name": {
+            "en_US": "Custom Blue Light Filter Application"
+        },
+        "productType": "virtual"
+    },
+    {
+        "active": true,
+        "catalogExternalReferenceCode": "AFTER_SALES_CATALOG",
+        "description": {
+            "en_US": "<p>A service that helps you find the right lens to correct your astigmatism.</p>"
+        },
+        "externalReferenceCode": "ASTIGMATISM_CONSULT",
+        "name": {
+            "en_US": "Astigmatism Correction Consultation"
+        },
+        "productType": "virtual"
+    }
+]

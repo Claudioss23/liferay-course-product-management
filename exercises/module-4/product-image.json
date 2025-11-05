@@ -1,0 +1,14 @@
+{
+    "images": [
+        {
+            "cdnEnabled": true,
+            "cdnURL": "[YOUR_URL]",
+            "externalReferenceCode": "ASTIGMATISM_CONSULT_IMAGE",
+            "galleryEnabled": true,
+            "title": {
+                "en_US": "Astigmatism Consult Service"
+            },
+            "type": 0
+        }
+    ]
+}
